@@ -6,6 +6,10 @@
 >
 >   Este projeto é desenvolvido sobre a [Licença MIT](./LICENSE).
 
+>   [!NOTE]
+>   Eu não achei relevante colocar a descrição das [minhas soluções](./questoes-the-huxley/) dos exercícios proprostos na disciplina de Programação I aqui, assim apenas criei uma pasta contendo-os.
+
+
 <!-- ##  Fundamentos de algoritmos na linguagem C
 
 ### Algoritmos de busca e ordenamento
