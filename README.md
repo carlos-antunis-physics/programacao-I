@@ -6,6 +6,19 @@
 >
 >   Este projeto é desenvolvido sobre a [Licença MIT](./LICENSE).
 
+<!-- ##  Fundamentos de algoritmos na linguagem C
+
+### Algoritmos de busca e ordenamento
+### Análise de algoritmos
+
+##  Fundamentos de estruturas de dados na linguagem C -->
+
+<div align = "center">
+
+[![under-construction](./under-construction.png)](#)
+
+</div>
+
 ##  Referências bibliográficas
 
 [1] *KNUTH, Donald E*. **The Art of Computer Programming: Fundamental Algorithms**, volume 1.
