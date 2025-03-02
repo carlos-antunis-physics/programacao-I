@@ -14,5 +14,5 @@ int main() {
     scanf("%d", &numero);
     //  escrever antecessor e sucessor
     printf("%d %d\n", numero - 1, numero + 1);
-	return 0;
+    return 0;
 }

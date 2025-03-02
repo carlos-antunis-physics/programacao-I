@@ -14,5 +14,5 @@ int main() {
     scanf("%lf%lf", &a, &b);
     //  escrever m?dia dos n?meros reais
     printf("MEDIA = %.5lf\n", (3.5 * a + 7.5 * b) / 11.);
-	return 0;
+    return 0;
 }

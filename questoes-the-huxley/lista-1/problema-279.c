@@ -16,5 +16,5 @@ int main() {
     scanf("%d%d%f", &numero, &horas_trabalhadas, &salario_por_hora);
     //  escrever resultados
     printf("NUMBER = %d\nSALARY = R$ %.2f\n", numero, horas_trabalhadas * salario_por_hora);
-	return 0;
+    return 0;
 }

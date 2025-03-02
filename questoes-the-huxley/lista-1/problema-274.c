@@ -14,5 +14,5 @@ int main() {
     scanf("%f%f%f", &a, &b, &c);
     //  imprimir media das notas
     printf("MEDIA = %.1f\n", (2. * a + 3. * b + 5. * c) / 10.);
-	return 0;
+    return 0;
 }

@@ -14,5 +14,5 @@ int main() {
     scanf("%d", &numero);
     //  escrever numero sorteado
     printf("O numero sorteado foi: %d", numero);
-	return 0;
+    return 0;
 }

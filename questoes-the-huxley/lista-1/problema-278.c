@@ -14,5 +14,5 @@ int main() {
     scanf("%d%d%d%d", &a, &b, &c, &d);
     //  escrever diferenca entre produtos
     printf("DIFERENCA = %d\n", a*b - c*d);
-	return 0;
+    return 0;
 }

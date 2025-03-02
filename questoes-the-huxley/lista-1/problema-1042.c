@@ -14,5 +14,5 @@ int main() {
     scanf("%d", &idade_em_anos);
     //  imprima idade convertida para segundos
     printf("%d\n", idade_em_anos * (365) * (24) * (60) * (60));
-	return 0;
+    return 0;
 }

@@ -14,5 +14,5 @@ int main() {
     scanf("%lf", &temperatura_f);
     //  imprimir temperatura em celsius
     printf("%.2lf\n", 5. * (temperatura_f - 32.) / 9.);
-	return 0;
+    return 0;
 }

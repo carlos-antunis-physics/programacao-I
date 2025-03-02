@@ -17,5 +17,5 @@ int main() {
     x = a + b;
     //  escrever resultado
     printf("X = %d\n", x);
-	return 0;
+    return 0;
 }

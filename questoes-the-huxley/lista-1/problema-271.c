@@ -15,5 +15,5 @@ int main() {
     scanf("%lf", &raio);
     //  imprimir a area do circulo
     printf("Area = %.4lf\n", pi * (raio / 100.) * (raio / 100.));
-	return 0;
+    return 0;
 }

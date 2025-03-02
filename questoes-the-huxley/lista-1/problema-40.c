@@ -15,5 +15,5 @@ int main() {
     scanf("%lf", &valor_gasto);
     //  imprimir o valor acrescido de 10%
     printf("%.2lf", valor_gasto * taxa);
-	return 0;
+    return 0;
 }
