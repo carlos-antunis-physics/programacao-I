@@ -30,7 +30,3 @@
 [2] *KNUTH, Donald E*. **The Art of Computer Programming: Sorting and Searching**, volume 3.
 
 [3] *Programação descomplicada | Linguagem C*. [**Estrutura de Dados em C | Curso Completo**](https://www.youtube.com/playlist?list=PL8iN9FQ7_jt6H5m4Gm0H89sybzR9yaaka).
-
-[4] *Deepali Srivastava*. [**Data Structures and Algorithms In C ( DSA )**](https://www.udemy.com/course/data-structures-and-algorithms-in-c/).
-
-[5] *Deepali Srivastava*. [**Advanced Data Structures and Algorithms in C ( DSA )**](https://www.udemy.com/course/data-structures-and-algorithms-in-c-2/).
