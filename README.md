@@ -6,22 +6,20 @@
 >
 >   Este projeto é desenvolvido sobre a [Licença MIT](./LICENSE).
 
->   [!NOTE]
->   Eu não achei relevante colocar a descrição das [minhas soluções](./questoes-the-huxley/) dos exercícios proprostos na disciplina de Programação I aqui, assim apenas criei uma pasta contendo-os.
 
+Bem-vindo às minhas notas de programação, algoritmos e estruturas de dados na linguagem C! Estas notas foram construídas para tanto revisar a programação em linguagem C quanto compreender mais a fundo os exemplos desenvolvidos nas disciplinas de Programação I e Estruturas de dados do curso de Engenharia da Computação da UFAL.
 
-<!-- ##  Fundamentos de algoritmos na linguagem C
+>   ####    [Fundamentos de programação em C](./notes/1.fundamentos-de-C.md)
+>
+>   Nesta seção, serão apresentados os conceitos elementares de progração na linguagem C abordados na disciplina de Programação 1, tais como: variáveis e identificadores, sintaxe básica de um programa em C, entrada e saída, operadores, expressões, condicionais (`if` e `switch`), funções e recursão, *arrays* e *strings*, ponteiros, arquivos e `structs`.
 
-### Algoritmos de busca e ordenamento
-### Análise de algoritmos
+>   ####    [Algoritmos de busca e ordenamento em C](./notes/2.busca-e-ordenamento-em-C.md)
+>
+>   Nesta seção, serão abordados temas como análise de algoritmos, notação de ordem de complexidade (*big O*), algoritmos de busca e ordenamento.
 
-##  Fundamentos de estruturas de dados na linguagem C -->
-
-<div align = "center">
-
-[![under-construction](./under-construction.png)](#)
-
-</div>
+>   ####    [Estruturas de dados em C](./notes/3.estruturas-de-dados-em-C.md)
+>
+>   Nesta seção ,serão abordados dados estruturados, tais quais *arrays*, listas e suas variantes, bem como o processo de alocação dinâmica de memória. Tipos abstratos de dados, como pilhas, filas, árvores e grafos.
 
 ##  Referências bibliográficas
 
@@ -30,3 +28,7 @@
 [2] *KNUTH, Donald E*. **The Art of Computer Programming: Sorting and Searching**, volume 3.
 
 [3] *Programação descomplicada | Linguagem C*. [**Estrutura de Dados em C | Curso Completo**](https://www.youtube.com/playlist?list=PL8iN9FQ7_jt6H5m4Gm0H89sybzR9yaaka).
+
+
+>   [!NOTE]
+>   Eu não achei relevante colocar a descrição das [minhas soluções](./questoes-the-huxley/) dos exercícios proprostos na disciplina de Programação I aqui, assim apenas criei uma pasta contendo-os.
