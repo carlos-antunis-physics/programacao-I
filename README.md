@@ -9,6 +9,11 @@
 
 Bem-vindo às minhas notas de programação, algoritmos e estruturas de dados na linguagem C! Estas notas foram construídas para tanto revisar a programação em linguagem C quanto compreender mais a fundo os exemplos desenvolvidos nas disciplinas de Programação I e Estruturas de dados do curso de Engenharia da Computação da UFAL.
 
+>   [!NOTE]
+>   Eu não achei relevante colocar a descrição das [minhas soluções](./questoes-the-huxley/) dos exercícios proprostos na disciplina de Programação I aqui, assim apenas criei uma pasta contendo-os.
+
+###  Sumário
+
 >   ####    [Fundamentos de programação em C](./notes/1.fundamentos-de-C/README.md)
 >
 >   Nesta seção, serão apresentados os conceitos elementares de progração na linguagem C abordados na disciplina de Programação 1, tais como: variáveis e identificadores, sintaxe básica de um programa em C, entrada e saída, operadores, expressões, condicionais (`if` e `switch`), funções e recursão, *arrays* e *strings*, ponteiros, arquivos e `structs`.
@@ -21,12 +26,7 @@ Bem-vindo às minhas notas de programação, algoritmos e estruturas de dados na
 >
 >   Nesta seção ,serão abordados dados estruturados, tais quais *arrays*, listas e suas variantes, bem como o processo de alocação dinâmica de memória. Tipos abstratos de dados, como pilhas, filas, árvores e grafos.
 
----
-
->   [!NOTE]
->   Eu não achei relevante colocar a descrição das [minhas soluções](./questoes-the-huxley/) dos exercícios proprostos na disciplina de Programação I aqui, assim apenas criei uma pasta contendo-os.
-
-##  Referências bibliográficas
+###  Referências bibliográficas
 
 [1] *KNUTH, Donald E*. **The Art of Computer Programming: Fundamental Algorithms**, volume 1.
 
