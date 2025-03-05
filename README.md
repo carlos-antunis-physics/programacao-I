@@ -4,7 +4,7 @@
 
 >   **Autor:** [Carlos Antunis Bonfim da Silva Santos](https://github.com/carlos-antunis-physics/)
 >
->   Este projeto é desenvolvido sobre a [Licença MIT](./LICENSE).
+>   Este projeto é desenvolvido sob a [Licença MIT](./LICENSE).
 
 
 Bem-vindo às minhas notas de programação, algoritmos e estruturas de dados na linguagem C! Estas notas foram construídas para tanto revisar a programação em linguagem C quanto compreender mais a fundo os exemplos desenvolvidos nas disciplinas de Programação I e Estruturas de dados do curso de Engenharia da Computação da UFAL.
@@ -21,6 +21,11 @@ Bem-vindo às minhas notas de programação, algoritmos e estruturas de dados na
 >
 >   Nesta seção ,serão abordados dados estruturados, tais quais *arrays*, listas e suas variantes, bem como o processo de alocação dinâmica de memória. Tipos abstratos de dados, como pilhas, filas, árvores e grafos.
 
+---
+
+>   [!NOTE]
+>   Eu não achei relevante colocar a descrição das [minhas soluções](./questoes-the-huxley/) dos exercícios proprostos na disciplina de Programação I aqui, assim apenas criei uma pasta contendo-os.
+
 ##  Referências bibliográficas
 
 [1] *KNUTH, Donald E*. **The Art of Computer Programming: Fundamental Algorithms**, volume 1.
@@ -28,7 +33,3 @@ Bem-vindo às minhas notas de programação, algoritmos e estruturas de dados na
 [2] *KNUTH, Donald E*. **The Art of Computer Programming: Sorting and Searching**, volume 3.
 
 [3] *Programação descomplicada | Linguagem C*. [**Estrutura de Dados em C | Curso Completo**](https://www.youtube.com/playlist?list=PL8iN9FQ7_jt6H5m4Gm0H89sybzR9yaaka).
-
-
->   [!NOTE]
->   Eu não achei relevante colocar a descrição das [minhas soluções](./questoes-the-huxley/) dos exercícios proprostos na disciplina de Programação I aqui, assim apenas criei uma pasta contendo-os.
