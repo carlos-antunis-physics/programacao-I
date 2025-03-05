@@ -9,15 +9,15 @@
 
 Bem-vindo às minhas notas de programação, algoritmos e estruturas de dados na linguagem C! Estas notas foram construídas para tanto revisar a programação em linguagem C quanto compreender mais a fundo os exemplos desenvolvidos nas disciplinas de Programação I e Estruturas de dados do curso de Engenharia da Computação da UFAL.
 
->   ####    [Fundamentos de programação em C](./notes/1.fundamentos-de-C.md)
+>   ####    [Fundamentos de programação em C](./notes/1.fundamentos-de-C/README.md)
 >
 >   Nesta seção, serão apresentados os conceitos elementares de progração na linguagem C abordados na disciplina de Programação 1, tais como: variáveis e identificadores, sintaxe básica de um programa em C, entrada e saída, operadores, expressões, condicionais (`if` e `switch`), funções e recursão, *arrays* e *strings*, ponteiros, arquivos e `structs`.
 
->   ####    [Algoritmos de busca e ordenamento em C](./notes/2.busca-e-ordenamento-em-C.md)
+>   ####    [Algoritmos de busca e ordenamento em C](./notes/2.busca-e-ordenamento-em-C/README.md)
 >
 >   Nesta seção, serão abordados temas como análise de algoritmos, notação de ordem de complexidade (*big O*), algoritmos de busca e ordenamento.
 
->   ####    [Estruturas de dados em C](./notes/3.estruturas-de-dados-em-C.md)
+>   ####    [Estruturas de dados em C](./notes/3.estruturas-de-dados-em-C/README.md)
 >
 >   Nesta seção ,serão abordados dados estruturados, tais quais *arrays*, listas e suas variantes, bem como o processo de alocação dinâmica de memória. Tipos abstratos de dados, como pilhas, filas, árvores e grafos.
 
