@@ -12,7 +12,7 @@ Bem-vindo às minhas notas de programação, algoritmos e estruturas de dados na
 >   [!NOTE]
 >   Eu não achei relevante colocar a descrição das [minhas soluções](./questoes-the-huxley/) dos exercícios proprostos na disciplina de Programação I aqui, assim apenas criei uma pasta contendo-os.
 
-###  Sumário
+##  Sumário
 
 >   ####    [Fundamentos de programação em C](./notes/1.fundamentos-de-C/README.md)
 >
@@ -26,7 +26,7 @@ Bem-vindo às minhas notas de programação, algoritmos e estruturas de dados na
 >
 >   Nesta seção ,serão abordados dados estruturados, tais quais *arrays*, listas e suas variantes, bem como o processo de alocação dinâmica de memória. Tipos abstratos de dados, como pilhas, filas, árvores e grafos.
 
-###  Referências bibliográficas
+##  Referências bibliográficas
 
 [1] *KNUTH, Donald E*. **The Art of Computer Programming: Fundamental Algorithms**, volume 1.
 
