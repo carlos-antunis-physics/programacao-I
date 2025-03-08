@@ -24,7 +24,7 @@ Bem-vindo às minhas notas de programação, algoritmos e estruturas de dados na
 
 >   ####    [Estruturas de dados em C](./notes/3.estruturas-de-dados-em-C/README.md)
 >
->   Nesta seção ,serão abordados dados estruturados, tais quais *arrays*, listas e suas variantes, bem como o processo de alocação dinâmica de memória. Tipos abstratos de dados, como pilhas, filas, árvores e grafos.
+>   Nesta seção, serão abordados dados estruturados, tais quais *arrays*, listas e suas variantes, bem como o processo de alocação dinâmica de memória. Tipos abstratos de dados, como pilhas, filas, árvores e grafos.
 
 ##  Referências bibliográficas
 
