@@ -13,7 +13,7 @@ Bem-vindo às minhas resoluções das listas da disciplina de Programação I! O
 >
 >   Dado que a disciplina de **Programação I** se baseia principalmente na resolução de exercícios propostos com base nos conceitos da linguagem de programação `C` apresentados em sala, dispus aqui apenas as minhas resoluções dos exercícios propsotos no decorrer da disciplina.
 
-##      Sumário
+##      Primeira avaliação
 
 >   ###     [Lista I](./lista-I/)
 >
@@ -27,7 +27,7 @@ Bem-vindo às minhas resoluções das listas da disciplina de Programação I! O
 >
 >   Esta lista apresenta os problemas utilizados para revisão e a prova I da disciplina, onde foram abordados problemas envolvendo fundamentos da linguagem C e constructos condicionais de controle de fluxo.
 
----
+##      Segunda avaliação
 
 >   ###     [Lista III](./lista-III/)
 >
@@ -41,7 +41,7 @@ Bem-vindo às minhas resoluções das listas da disciplina de Programação I! O
 >
 >   Esta lista apresenta os problemas utilizados para revisão e a prova II da disciplina, onde foram abordados problemas envolvendo funções e chamadas recursivas.
 
----
+##      Terceira avaliação
 
 >   ###     [Lista V](./lista-V/)
 >
@@ -57,7 +57,7 @@ Bem-vindo às minhas resoluções das listas da disciplina de Programação I! O
 >
 >   **UNDER CONSTRUCTION**.
 
----
+##      Quarta avaliação
 
 >   ###     [Lista VII](./lista-VII/)
 >
@@ -70,8 +70,6 @@ Bem-vindo às minhas resoluções das listas da disciplina de Programação I! O
 >   ###     [Avaliação IV](./avaliacao-IV/)
 >
 >   **UNDER CONSTRUCTION**.-->
-
----
 
 <div align="center">
 
