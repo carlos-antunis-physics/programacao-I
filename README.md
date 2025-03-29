@@ -25,7 +25,7 @@ Bem-vindo às minhas resoluções das listas da disciplina de Programação I! O
 
 >   ###     [Avaliação I](./avaliacao-I/)
 >
->   Esta lista apresenta os problemas utilizados para [revisão](./avaliacao-I/lista-prova-1) e a prova I da disciplina, onde foram abordados problemas envolvendo fundamentos da linguagem C e constructos condicionais de controle de fluxo.
+>   Esta lista apresenta os problemas utilizados para [revisão](./avaliacao-I/lista-revisao/) e a prova I da disciplina, onde foram abordados problemas envolvendo fundamentos da linguagem C e constructos condicionais de controle de fluxo.
 
 ##      Segunda avaliação
 
