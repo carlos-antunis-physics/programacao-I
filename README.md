@@ -41,11 +41,11 @@ Para a segunda avaliação foi discutido a implementação de funções na lingu
 
 Para a terceira avaliação nos ativemos ao estudo dos arranjos de dados na linguagem `C`, desde a declaração até a utilização de `arrays` e `strings` e sua passagem como parâmetros para funções. Até o presente momento, apenas uam lista de exercício foi disponibilizada.
 
+<!--
 >   ###     [Lista V](./avaliacao-III/lista-V/)
 >
 >   Nesta lista foram abordados problemas envolvendo o tema de arrays unidimensionais na linguagem `C`, tais como: `arrays`, `strings`, passagem de `arrays` e `strings` como parâmetros.
 
-<!--
 
 ##      [Quarta avaliação](./avaliacao-IV/)
 -->
