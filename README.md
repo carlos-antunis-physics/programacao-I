@@ -29,21 +29,21 @@ Bem-vindo às minhas resoluções das listas da disciplina de Programação I! O
 
 ##      Segunda avaliação
 
->   ###     [Lista III](./)
+>   ###     [Lista III](#)
 >
 >   Nesta lista foram abordados problemas envolvendo o tema de funções na linguagem C, tais como: declaração, implementação e chamada de funções, funções recursivas e funções de retorno vazio (funções `void`).
 
->   ###     [Lista IV](./)
+>   ###     [Lista IV](#)
 >
 >   Nesta lista foram abordados problemas mais elaborados envolvendo o tema de funções recursivas na linguagem C.
 
->   ###     [Avaliação II](./)
+>   ###     [Avaliação II](#)
 >
 >   Esta lista apresenta os problemas utilizados para revisão e a prova II da disciplina, onde foram abordados problemas envolvendo funções e chamadas recursivas.
 
 ##      Terceira avaliação
 
->   ###     [Lista V](./)
+>   ###     [Lista V](#)
 >
 >   Nesta lista foram abordados problemas envolvendo o tema de arranjos na linguagem C, tais como: `arrays`, `strings`, passagem de `arrays` e `strings` como parâmetros e ponteiros.
 
