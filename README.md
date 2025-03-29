@@ -11,65 +11,44 @@ Bem-vindo às minhas resoluções das listas da disciplina de Programação I! O
 
 >   [!NOTE]
 >
->   Dado que a disciplina de **Programação I** se baseia principalmente na resolução de exercícios propostos com base nos conceitos da linguagem de programação `C` apresentados em sala, dispus aqui apenas as minhas resoluções dos exercícios propsotos no decorrer da disciplina.
+>   Dado que a disciplina de **Programação I** se baseia principalmente na resolução de exercícios propostos com base nos conceitos da linguagem de programação `C` apresentados em sala, dispus aqui apenas as resoluções dos exercícios propostos, que consegui resolver, no decorrer da disciplina.
 
-##      Primeira avaliação
+##      [Primeira avaliação](./avaliacao-I/)
 
->   ###     [Lista I](./lista-I/)
+A primeira avaliação abrangeu os fundamentos da linguagem `C`, tais como variáveis e identificadores, síntaxe básica de um programa em `C`, entrada e saída padrão, operadores e expressões e construtos condicionais de controle de fluxo, tais como `if`, `else`, `else if` e `switch case`. Foram dispostas duas listas de exercícios e uma [lista de revisão](./avaliacao-I/lista-revisao/) para prova com questões anteriormente aplicadas.
+
+>   ###     [Lista I](./avaliacao-I/lista-I/)
 >
->   Nesta lista foram abordados problemas envolvendo temas elementares de programação na linguagem C, tais como: variáveis e identificadores, síntaxe básica de um programa em C, entrada e saída padrão, operadores e expressões.
+>   Esta lista foi disposta com problemas elementares a serem solucionados utilizando a linguagem `C`, permitindo assim tanto treinar a síntaxe básica da linguagem, bem como aplicar os conceitos de declaração de variáveis, aplicação de operadores e expressões e utilização da entrada e saída padrão.
 
->   ###     [Lista II](./lista-II/)
+>   ###     [Lista II](./avaliacao-I/lista-II/)
 >
->   Nesta lista foram abordados problemas envolvendo o tema de construtos elementares de controle de fluxo na linguagem C, tais como: `if`, `else`, `else if` e `switch`.
+>   Esta lista foi proposta com problemas que exigem condicionais ao longo da execução do programa, permitindo assim a aplicação de construtos condicionais de controle de fluxo (`if`, `else`, `else if` e `switch case`) e do operador ternário.
 
->   ###     [Avaliação I](./avaliacao-I/)
+##      [Segunda avaliação](./avaliacao-II/)
+
+Para a segunda avaliação foi discutido a implementação de funções na linguagem `C`, desde a sua declaração e implementação, à sua chamada, abordando também temas como funções recursivas e funções de retorno vazio (`void`). Foram também dispostas duas listas de exercícios e uma [lista de revisão](./avaliacao-II/lista-revisao/) para prova com questões anteriormente aplicadas.
+
+>   ###     [Lista III](./avaliacao-II/lista-III/)
 >
->   Esta lista apresenta os problemas utilizados para [revisão](./avaliacao-I/lista-revisao/) e a prova I da disciplina, onde foram abordados problemas envolvendo fundamentos da linguagem C e constructos condicionais de controle de fluxo.
+>   Nesta lista foram abordados problemas envolvendo o tema de funções na linguagem `C`, tais como declaração, implementação e chamada de funções, funções recursivas e funções de retorno vazio (funções `void`).
 
-##      Segunda avaliação
-
->   ###     [Lista III](#)
+>   ###     [Lista IV](./avaliacao-II/lista-IV/)
 >
->   Nesta lista foram abordados problemas envolvendo o tema de funções na linguagem C, tais como: declaração, implementação e chamada de funções, funções recursivas e funções de retorno vazio (funções `void`).
+>   Nesta lista foram abordados problemas mais elaborados envolvendo o tema de funções recursivas na linguagem `C`.
 
->   ###     [Lista IV](#)
+##      [Terceira avaliação](./avaliacao-III/)
+
+Para a terceira avaliação nos ativemos ao estudo dos arranjos de dados na linguagem `C`, desde a declaração até a utilização de `arrays` e `strings` e sua passagem como parâmetros para funções. Até o presente momento, apenas uam lista de exercício foi disponibilizada.
+
+>   ###     [Lista V](./avaliacao-III/lista-V/)
 >
->   Nesta lista foram abordados problemas mais elaborados envolvendo o tema de funções recursivas na linguagem C.
+>   Nesta lista foram abordados problemas envolvendo o tema de arrays unidimensionais na linguagem `C`, tais como: `arrays`, `strings`, passagem de `arrays` e `strings` como parâmetros.
 
->   ###     [Avaliação II](#)
->
->   Esta lista apresenta os problemas utilizados para revisão e a prova II da disciplina, onde foram abordados problemas envolvendo funções e chamadas recursivas.
+<!--
 
-##      Terceira avaliação
-
->   ###     [Lista V](#)
->
->   Nesta lista foram abordados problemas envolvendo o tema de arranjos na linguagem C, tais como: `arrays`, `strings`, passagem de `arrays` e `strings` como parâmetros e ponteiros.
-
-
-<!-- 
->   ###     [Lista VI](./lista-VI/)
->
->   **UNDER CONSTRUCTION**.
-
->   ###     [Avaliação III](./avaliacao-III/)
->
->   **UNDER CONSTRUCTION**.
-
-##      Quarta avaliação
-
->   ###     [Lista VII](./lista-VII/)
->
->   **UNDER CONSTRUCTION**.
-
->   ###     [Lista VIII](./lista-VIII/)
->
->   **UNDER CONSTRUCTION**.
-
->   ###     [Avaliação IV](./avaliacao-IV/)
->
->   **UNDER CONSTRUCTION**.-->
+##      [Quarta avaliação](./avaliacao-IV/)
+-->
 
 <div align="center">
 
