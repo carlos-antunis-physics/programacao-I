@@ -53,13 +53,25 @@ Bem-vindo às minhas resoluções das listas da disciplina de Programação I! O
 >
 >   **UNDER CONSTRUCTION**.
 
+>   ###     [Avaliação III](./avaliacao-III/)
+>
+>   **UNDER CONSTRUCTION**.
+
+---
+
 >   ###     [Lista VII](./lista-VII/)
 >
 >   **UNDER CONSTRUCTION**.
 
 >   ###     [Lista VIII](./lista-VIII/)
 >
->   **UNDER CONSTRUCTION**. -->
+>   **UNDER CONSTRUCTION**.
+
+>   ###     [Avaliação IV](./avaliacao-IV/)
+>
+>   **UNDER CONSTRUCTION**.-->
+
+---
 
 <div align="center">
 
