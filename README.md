@@ -1,4 +1,4 @@
-#  Algoritmos e estruturas de dados em C
+#       Programação I
 
 [![C programming language](https://img.shields.io/badge/C-efefef.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjNjU5QUQzIiBkPSJNMTE1LjQgMzAuN0w2Ny4xIDIuOWMtLjgtLjUtMS45LS43LTMuMS0uNy0xLjIgMC0yLjMuMy0zLjEuN2wtNDggMjcuOWMtMS43IDEtMi45IDMuNS0yLjkgNS40djU1LjdjMCAxLjEuMiAyLjQgMSAzLjVsMTA2LjgtNjJjLS42LTEuMi0xLjUtMi4xLTIuNC0yLjd6Ii8+PHBhdGggZmlsbD0iIzAzNTk5QyIgZD0iTTEwLjcgOTUuM2MuNS44IDEuMiAxLjUgMS45IDEuOWw0OC4yIDI3LjljLjguNSAxLjkuNyAzLjEuNyAxLjIgMCAyLjMtLjMgMy4xLS43bDQ4LTI3LjljMS43LTEgMi45LTMuNSAyLjktNS40VjM2LjFjMC0uOS0uMS0xLjktLjYtMi44bC0xMDYuNiA2MnoiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNODUuMyA3Ni4xQzgxLjEgODMuNSA3My4xIDg4LjUgNjQgODguNWMtMTMuNSAwLTI0LjUtMTEtMjQuNS0yNC41czExLTI0LjUgMjQuNS0yNC41YzkuMSAwIDE3LjEgNSAyMS4zIDEyLjVsMTMtNy41Yy02LjgtMTEuOS0xOS42LTIwLTM0LjMtMjAtMjEuOCAwLTM5LjUgMTcuNy0zOS41IDM5LjVzMTcuNyAzOS41IDM5LjUgMzkuNWMxNC42IDAgMjcuNC04IDM0LjItMTkuOGwtMTIuOS03LjZ6Ii8+PC9zdmc+&style=flat)](#---)
 
@@ -7,29 +7,62 @@
 >   Este projeto é desenvolvido sob a [Licença MIT](./LICENSE).
 
 
-Bem-vindo às minhas notas de programação, algoritmos e estruturas de dados na linguagem C! Estas notas foram construídas para tanto revisar a programação em linguagem C quanto compreender mais a fundo os exemplos desenvolvidos nas disciplinas de Programação I e Estruturas de dados do curso de Engenharia da Computação da UFAL.
+Bem-vindo às minhas resoluções das listas da disciplina de Programação I! Os códigos aqui implementados foram construídos tanto para revisar a programação em linguagem C quanto para compreender mais a fundo os exemplos desenvolvidos na disciplina de Programação I do curso de Engenharia da Computação da UFAL.
 
 >   [!NOTE]
->   Eu não achei relevante colocar a descrição das [minhas soluções](./questoes-the-huxley/) dos exercícios proprostos na disciplina de Programação I aqui, assim apenas criei uma pasta contendo-os.
-
-##  Sumário
-
->   ####    [Fundamentos de programação em C](./notes/1.fundamentos-de-C/README.md)
 >
->   Nesta seção, serão apresentados os conceitos elementares de progração na linguagem C abordados na disciplina de Programação 1, tais como: variáveis e identificadores, sintaxe básica de um programa em C, entrada e saída, operadores, expressões, condicionais (`if` e `switch`), funções e recursão, *arrays* e *strings*, ponteiros, arquivos e `structs`.
+>   Dado que a disciplina de **Programação I** se baseia principalmente na resolução de exercícios propostos com base nos conceitos da linguagem de programação `C` apresentados em sala, dispus aqui apenas as minhas resoluções dos exercícios propsotos no decorrer da disciplina.
 
->   ####    [Algoritmos de busca e ordenamento em C](./notes/2.busca-e-ordenamento-em-C/README.md)
+##      Sumário
+
+>   ###     [Lista I](./lista-I/)
 >
->   Nesta seção, serão abordados temas como análise de algoritmos, notação de ordem de complexidade (*big O*), algoritmos de busca e ordenamento.
+>   Nesta lista foram abordados problemas envolvendo temas elementares de programação na linguagem C, tais como: variáveis e identificadores, síntaxe básica de um programa em C, entrada e saída padrão, operadores e expressões.
 
->   ####    [Estruturas de dados em C](./notes/3.estruturas-de-dados-em-C/README.md)
+>   ###     [Lista II](./lista-II/)
 >
->   Nesta seção, serão abordados dados estruturados, tais quais *arrays*, listas e suas variantes, bem como o processo de alocação dinâmica de memória. Tipos abstratos de dados, como pilhas, filas, árvores e grafos.
+>   Nesta lista foram abordados problemas envolvendo o tema de construtos elementares de controle de fluxo na linguagem C, tais como: `if`, `else`, `else if` e `switch`.
 
-##  Referências bibliográficas
+>   ###     [Avaliação I](./avaliacao-I/)
+>
+>   Esta lista apresenta os problemas utilizados para revisão e a prova I da disciplina, onde foram abordados problemas envolvendo fundamentos da linguagem C e constructos condicionais de controle de fluxo.
 
-[1] *KNUTH, Donald E*. **The Art of Computer Programming: Fundamental Algorithms**, volume 1.
+---
 
-[2] *KNUTH, Donald E*. **The Art of Computer Programming: Sorting and Searching**, volume 3.
+>   ###     [Lista III](./lista-III/)
+>
+>   Nesta lista foram abordados problemas envolvendo o tema de funções na linguagem C, tais como: declaração, implementação e chamada de funções, funções recursivas e funções de retorno vazio (funções `void`).
 
-[3] *Programação descomplicada | Linguagem C*. [**Estrutura de Dados em C | Curso Completo**](https://www.youtube.com/playlist?list=PL8iN9FQ7_jt6H5m4Gm0H89sybzR9yaaka).
+>   ###     [Lista IV](./lista-IV/)
+>
+>   Nesta lista foram abordados problemas mais elaborados envolvendo o tema de funções recursivas na linguagem C.
+
+>   ###     [Avaliação II](./avaliacao-II/)
+>
+>   Esta lista apresenta os problemas utilizados para revisão e a prova II da disciplina, onde foram abordados problemas envolvendo funções e chamadas recursivas.
+
+---
+
+>   ###     [Lista V](./lista-V/)
+>
+>   Nesta lista foram abordados problemas envolvendo o tema de arranjos na linguagem C, tais como: `arrays`, `strings`, passagem de `arrays` e `strings` como parâmetros e ponteiros.
+
+
+<!-- 
+>   ###     [Lista VI](./lista-VI/)
+>
+>   **UNDER CONSTRUCTION**.
+
+>   ###     [Lista VII](./lista-VII/)
+>
+>   **UNDER CONSTRUCTION**.
+
+>   ###     [Lista VIII](./lista-VIII/)
+>
+>   **UNDER CONSTRUCTION**. -->
+
+<div align="center">
+
+![under construction image](./under-construction.png)
+
+</div>
