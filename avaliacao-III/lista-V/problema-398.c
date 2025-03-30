@@ -7,7 +7,6 @@
 */
 
 #include <stdio.h>
-#include <math.h>
 
 int mdc(int, int);
 int mmc(int, int);
@@ -30,5 +29,5 @@ int mmc(int a, int b) {
     return (a * b) / mdc(a, b);
 }
 int contar_multiplos_ate_50(int a) {
-    return (a > 0) ? (49 / a) : 0; // 49 para ser extritamente menor
+    return (a > 0) ? (49 / a) : (a == 0);   // 49 por ser estritamente menor
 }
