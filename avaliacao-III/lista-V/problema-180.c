@@ -36,5 +36,5 @@ void excede_capacidade(int andares, int capacidade) {
         return;
     }
     //  requira a leitura do proximo andar
-    return excede_capacidade(andares - 1, capacidade);
+    excede_capacidade(andares - 1, capacidade);
 }
