@@ -43,7 +43,7 @@ Para a terceira avaliação nos ativemos ao estudo dos arranjos de dados na ling
 
 >   ###     [Lista V](./avaliacao-III/lista-V/)
 >
->   Nesta lista foram abordados problemas envolvendo o tema de arrays unidimensionais na linguagem `C`, tais como: `arrays`, `strings`, passagem de `arrays` e `strings` como parâmetros.
+>   Nesta lista foram abordados mais problemas envolvendo o tema de implementação de funções recursivas na linguagem `C`.
 
 <!--
 ##      [Quarta avaliação](./avaliacao-IV/)
