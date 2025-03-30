@@ -2,7 +2,7 @@
     Autor: Carlos Antunis Bonfim da Silva Santos
         Github: https://github.com/carlos-antunis-physics/
 
-    Problema: 398 - Conta M�ltiplos
+    Problema: 398 - Conta Múltiplos
         Link: https://www.thehuxley.com/problem/398
 */
 
