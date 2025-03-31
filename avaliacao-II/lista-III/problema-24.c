@@ -12,26 +12,22 @@ int fatorial(int n) {
     return (n == 0) ? 1 : n * fatorial(n - 1);
 }
 
-void proximos_fatoriais(char * ultimos_fatoriais, int size) {
+void imprimir_proximos_fatoriais() {
     int n;
     scanf("%d", &n);
     if (n == -1) {
-        //  escreva os fatoriais
-        printf("%s", ultimos_fatoriais);
         return;         // encerre o processo
     }
     else {
-        //  alocar string com 10 caracteres a mais
-        char fatoriais[size + 10];
         //  concatenar strings
-        sprintf(fatoriais, "%s%d\n", ultimos_fatoriais, fatorial(n));
+        printf("%d\n", fatorial(n));
         //  requerer a leitura dos proximos valores
-        proximos_fatoriais(fatoriais, size + 10);
+        imprimir_proximos_fatoriais();
         return;
     }
 }
 
 int main() {
-    proximos_fatoriais("", 0);
+    imprimir_proximos_fatoriais();
     return 0;
 }
