@@ -43,7 +43,7 @@ Para a terceira avaliação nos ativemos ao estudo dos arranjos de dados na ling
 
 >   ###     [Lista V](./avaliacao-III/lista-V/)
 >
->   Nesta lista foram abordados mais problemas envolvendo o tema de implementação de funções recursivas na linguagem `C`.
+>   Nesta lista foram abordados mais problemas envolvendo a implementação de funções recursivas na linguagem `C`, ademais a alguns problemas já envolvendo declaração e passagem de `arrays` como parâmetros para funções.
 
 <!--
 ##      [Quarta avaliação](./avaliacao-IV/)

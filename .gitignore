@@ -51,5 +51,8 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
-# private files
-__*.*
+# work in progress files
+__wip__*.*
+
+# test files
+__test__*.*
