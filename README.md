@@ -39,11 +39,15 @@ Para a segunda avaliação foi discutido a implementação de funções na lingu
 
 ##      [Terceira avaliação](./avaliacao-III/)
 
-Para a terceira avaliação nos ativemos ao estudo dos arranjos de dados na linguagem `C`, desde a declaração até a utilização de `arrays` e `strings` e sua passagem como parâmetros para funções. Até o presente momento, apenas uam lista de exercício foi disponibilizada.
+Para a terceira avaliação nos ativemos ao estudo dos arranjos de dados na linguagem `C`, desde a declaração até a utilização de `arrays` e `strings` e sua passagem como parâmetros para funções. Até o presente momento, duas listas de exercícios foram disponibilizadas.
 
 >   ###     [Lista V](./avaliacao-III/lista-V/)
 >
 >   Nesta lista foram abordados mais problemas envolvendo a implementação de funções recursivas na linguagem `C`, ademais a alguns problemas já envolvendo declaração e passagem de `arrays` como parâmetros para funções.
+
+>   ###     [Lista VI](./avaliacao-III/lista-VI/)
+>
+>   Nesta lista foram abordados mais problemas envolvendo a implementação de funções recursivas na linguagem `C`, ademais a mais alguns problemas envolvendo declaração e passagem de `arrays` como parâmetros para funções.
 
 <!--
 ##      [Quarta avaliação](./avaliacao-IV/)
