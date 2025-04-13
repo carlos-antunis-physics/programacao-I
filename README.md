@@ -39,7 +39,7 @@ Para a segunda avaliação foi discutido a implementação de funções na lingu
 
 ##      [Terceira avaliação](./avaliacao-III/)
 
-Para a terceira avaliação nos ativemos ao estudo dos arranjos de dados na linguagem `C`, desde a declaração até a utilização de `arrays` e `strings` e sua passagem como parâmetros para funções. Até o presente momento, duas listas de exercícios foram disponibilizadas.
+Para a terceira avaliação nos ativemos ao estudo dos arranjos de dados na linguagem `C`, desde a declaração até a utilização de `arrays` e `strings` e sua passagem como parâmetros para funções. Duas listas de exercícios foram também disponibilizadas ademais a uma lista de revisão (que não fiz XD).
 
 >   ###     [Lista V](./avaliacao-III/lista-V/)
 >
