@@ -2,8 +2,8 @@
     Autor: Carlos Antunis Bonfim da Silva Santos
         Github: https://github.com/carlos-antunis-physics/
 
-    Problema: 50 - Foto de Família
-        Link: https://www.thehuxley.com/problem/50
+    Problema: 1858 - Maior e menor elemento de um array
+        Link: https://www.thehuxley.com/problem/1858
 */
 
 #include <stdio.h>
