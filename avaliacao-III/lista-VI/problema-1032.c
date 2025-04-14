@@ -48,7 +48,7 @@ void set_false(int array[], unsigned n)
     //  requisitar a definicao do valor como false até
     //  o elemento anterior
     set_false(array, n - 1);
-    //  efetuar a leitura do n-esimo elemento
+    //  armazenar False o n-esimo elemento
     array[n - 1] = 0;
 }
 
