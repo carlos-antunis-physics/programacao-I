@@ -53,7 +53,7 @@ Para a terceira avaliação nos ativemos ao estudo dos arranjos de dados na ling
 
 Para a quarta avaliação estudamos mais profundamente os arranjos de dados na linguagem `C`, bem como os ponteiros e laços de repetição. Até o presente momento, uma lista de exercícios foi disponibilizada.
 
->   ###     [Lista VII](./avaliacao-IV/lista-VII/a.md)
+>   ###     [Lista VII](./avaliacao-IV/lista-VII/)
 >
 >   Nesta lista foram abordados problemas envolvendo estrutras de repetição na linguagem `C`, ademais a mais alguns problemas envolvendo `arrays`.
 
