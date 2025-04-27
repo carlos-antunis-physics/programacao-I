@@ -2,8 +2,8 @@
     Autor: Carlos Antunis Bonfim da Silva Santos
         Github: https://github.com/carlos-antunis-physics/
 
-    Problema: 1291 - Brincando com matrizes
-        Link: https://www.thehuxley.com/problem/1291
+    Problema: 1279 - Brincando com matrizes
+        Link: https://www.thehuxley.com/problem/1279
 */
 
 #include <stdio.h>
