@@ -64,4 +64,4 @@ Para a quarta avaliação estudamos mais profundamente os arranjos de dados na l
 
 >   ###     [Lista VIII](./avaliacao-IV/lista-VIII/)
 >
->   Nesta lista foram abordados problemas envolvendo manipulação de arrays e matrizes na linguagem `C`.
+>   Nesta lista foram abordados problemas envolvendo manipulação de `arrays` e matrizes na linguagem `C`.
