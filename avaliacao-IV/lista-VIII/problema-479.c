@@ -17,7 +17,7 @@ int main()
 {
     unsigned l, c, n;
     unsigned **mapa;
-    unsigned y, x;
+    unsigned x, y;
     
     //  Lê a quantidade de linhas e colunas do mapa
     scanf("%u %u", &l, &c);
@@ -40,11 +40,11 @@ int main()
     for (unsigned m = 0; m < n; m++)
     {
         //  movimentar com base nos ínidices do mapa
-        movimentar(&y, &x, movimento[m], mapa, l, c); // x = coluna, y = linha
+        movimentar(&x, &y, movimento[m], mapa, l, c);
     }
     
-    //  Imprime a posição final do personagem
-    printf("(%u,%u)\n", x, y);
+    //  Imprime a posição final do personagem no array
+    printf("(%u,%u)\n", y, x);
 
     //  Libera a memória alocada para o mapa
     liberar_mapa(mapa, l, c);
@@ -55,48 +55,48 @@ int main()
 unsigned **ler_mapa(unsigned l, unsigned c)
 {
     //  Aloca memória para o mapa
-    unsigned **M = (unsigned **)malloc(l * sizeof(unsigned *));
-    for (unsigned j = 0; j < l; j++)
+    unsigned **M = (unsigned **)malloc(c * sizeof(unsigned *));
+    for (unsigned i = 0; i < c; i++)
     {
-        M[j] = (unsigned *)malloc(c * sizeof(unsigned));
-        for (unsigned i = 0; i < c; i++)
+        M[i] = (unsigned *)malloc(l * sizeof(unsigned));
+        for (unsigned j = 0; j < l; j++)
         {
-            scanf("%u", &M[j][i]);
+            scanf("%u", &M[i][j]);
         }
     }
     return M;
 }
 
-void movimentar(unsigned *y0, unsigned *x0, char mvmnt, unsigned **m, unsigned l, unsigned c)
+void movimentar(unsigned *x0, unsigned *y0, char mvmnt, unsigned **m, unsigned l, unsigned c)
 {
-    int i = *x0, j = *y0;
+    int j = *x0, i = *y0;
     //  Computa a posição a verificar
     switch (mvmnt)
     {
         case 'D':
-            i++;
-            break;
-        case 'E':
-            i--;
-            break;
-        case 'B':
             j++;
             break;
-        case 'C':
+        case 'E':
             j--;
             break;
+        case 'B':
+            i++;
+            break;
+        case 'C':
+            i--;
+            break;
     }
-    if ((-1 < i && i < c) && (-1 < j && j < l) && m[j][i])
+    if ((-1 < i && i < l) && (-1 < j && j < c) && m[i][j])
     {
         //  Atualiza a posição do personagem
-        *x0 = i;
-        *y0 = j;
+        *x0 = j;
+        *y0 = i;
     }
 }
 
 void liberar_mapa(unsigned **m, unsigned l, unsigned c)
 {
-    for (unsigned i = 0; i < l; i++)
+    for (unsigned i = 0; i < c; i++)
     {
         free(m[i]);
     }
