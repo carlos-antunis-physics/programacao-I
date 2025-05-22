@@ -39,7 +39,8 @@ int main()
 
     for (unsigned m = 0; m < n; m++)
     {
-        movimentar(&x, &y, movimento[m], mapa, l, c);
+        //  movimentar com base nos ínidices do mapa
+        movimentar(&y, &x, movimento[m], mapa, l, c); // x = coluna, y = linha
     }
     
     //  Imprime a posição final do personagem
@@ -66,9 +67,9 @@ unsigned **ler_mapa(unsigned l, unsigned c)
     return M;
 }
 
-void movimentar(unsigned *j0, unsigned *i0, char mvmnt, unsigned **m, unsigned l, unsigned c)
+void movimentar(unsigned *y0, unsigned *x0, char mvmnt, unsigned **m, unsigned l, unsigned c)
 {
-    int i = *i0, j = *j0;
+    int i = *x0, j = *y0;
     //  Computa a posição a verificar
     switch (mvmnt)
     {
@@ -88,8 +89,8 @@ void movimentar(unsigned *j0, unsigned *i0, char mvmnt, unsigned **m, unsigned l
     if ((-1 < i && i < c) && (-1 < j && j < l) && m[j][i])
     {
         //  Atualiza a posição do personagem
-        *i0 = i;
-        *j0 = j;
+        *x0 = i;
+        *y0 = j;
     }
 }
 
