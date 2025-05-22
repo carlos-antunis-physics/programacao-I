@@ -17,7 +17,7 @@ int main()
 {
     unsigned l, c, n;
     unsigned **mapa;
-    unsigned i, j;
+    unsigned y, x;
     
     //  Lê a quantidade de linhas e colunas do mapa
     scanf("%u %u", &l, &c);
@@ -35,15 +35,15 @@ int main()
     }
     
     //  Lê a posição inicial do personagem
-    scanf("%u %u", &j, &i);
+    scanf("%u %u", &x, &y);
 
     for (unsigned m = 0; m < n; m++)
     {
-        movimentar(&i, &j, movimento[m], mapa, l, c);
+        movimentar(&x, &y, movimento[m], mapa, l, c);
     }
     
     //  Imprime a posição final do personagem
-    printf("(%u,%u)\n", j, i);
+    printf("(%u,%u)\n", x, y);
 
     //  Libera a memória alocada para o mapa
     liberar_mapa(mapa, l, c);
@@ -66,7 +66,7 @@ unsigned **ler_mapa(unsigned l, unsigned c)
     return M;
 }
 
-void movimentar(unsigned *i0, unsigned *j0, char mvmnt, unsigned **m, unsigned l, unsigned c)
+void movimentar(unsigned *j0, unsigned *i0, char mvmnt, unsigned **m, unsigned l, unsigned c)
 {
     int i = *i0, j = *j0;
     //  Computa a posição a verificar
