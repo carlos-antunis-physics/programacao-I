@@ -1,4 +1,9 @@
+<div align = "center">
+
+[![UFAL log](./UFAL.png)](#---)
 #       Programação I
+
+</div>
 
 >   **Autor:** [Carlos Antunis Bonfim da Silva Santos](https://github.com/carlos-antunis-physics/)
 >
@@ -51,20 +56,12 @@ Para a terceira avaliação nos ativemos ao estudo dos arranjos de dados na ling
 
 ##      [Quarta avaliação](./avaliacao-IV/)
 
-Para a quarta avaliação estudamos mais profundamente os arranjos de dados na linguagem `C`, bem como os ponteiros e laços de repetição. Até o presente momento, uma lista de exercícios foi disponibilizada.
+Para a quarta avaliação estudamos mais profundamente os arranjos de dados na linguagem `C`, bem como ponteiros, arrays e matrizes e laços de repetição. Até o presente momento, duas listas de exercícios foram disponibilizadas, ademais a uma lista de revisão (que também não fiz XD).
 
 >   ###     [Lista VII](./avaliacao-IV/lista-VII/)
 >
 >   Nesta lista foram abordados problemas envolvendo estrutras de repetição na linguagem `C`, ademais a mais alguns problemas envolvendo `arrays`.
 
-<!-- 
 >   ###     [Lista VIII](./avaliacao-IV/lista-VIII/)
 >
->
--->
-
-<div align="center">
-
-![under construction image](./under-construction.png)
-
-</div>
+>   Nesta lista foram abordados problemas envolvendo manipulação de arrays e matrizes na linguagem `C`.
