@@ -1,22 +1,26 @@
-<div align = "center">
+<div align="center">
 
-[![UFAL log](https://github.com/carlos-antunis-physics/carlos-antunis-physics/blob/main/assets/UFAL.png?raw=true)](#---)
-#       Programação I
+[
+    <img src="https://raw.githubusercontent.com/carlos-antunis-physics/carlos-antunis-physics/refs/heads/main/assets/UFAL.png" width="150"></img>
+](#---)
 
-</div>
+##      Programação I
 
->   **Autor:** [Carlos Antunis Bonfim da Silva Santos](https://github.com/carlos-antunis-physics/)
->
->   Este projeto é desenvolvido sob a [Licença MIT](./LICENSE).
+[Carlos Antunis Bonfim da Silva Santos](https://github.com/carlos-antunis-physics)
 
 [![C programming language](https://img.shields.io/badge/C-efefef.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjMDM1OTlDIiBkPSJNMTE3LjUgMzMuNWwuMy0uMmMtLjYtMS4xLTEuNS0yLjEtMi40LTIuNkw2Ny4xIDIuOWMtLjgtLjUtMS45LS43LTMuMS0uNy0xLjIgMC0yLjMuMy0zLjEuN2wtNDggMjcuOWMtMS43IDEtMi45IDMuNS0yLjkgNS40djU1LjdjMCAxLjEuMiAyLjMuOSAzLjRsLS4yLjFjLjUuOCAxLjIgMS41IDEuOSAxLjlsNDguMiAyNy45Yy44LjUgMS45LjcgMy4xLjcgMS4yIDAgMi4zLS4zIDMuMS0uN2w0OC0yNy45YzEuNy0xIDIuOS0zLjUgMi45LTUuNFYzNi4xYy4xLS44IDAtMS43LS40LTIuNnpNNjQgODguNWM5LjEgMCAxNy4xLTUgMjEuMy0xMi40bDEyLjkgNy42Yy02LjggMTEuOC0xOS42IDE5LjgtMzQuMiAxOS44LTIxLjggMC0zOS41LTE3LjctMzkuNS0zOS41UzQyLjIgMjQuNSA2NCAyNC41YzE0LjcgMCAyNy41IDguMSAzNC4zIDIwbC0xMyA3LjVDODEuMSA0NC41IDczLjEgMzkuNSA2NCAzOS41Yy0xMy41IDAtMjQuNSAxMS0yNC41IDI0LjVzMTEgMjQuNSAyNC41IDI0LjV6Ii8+PC9zdmc+&style=flat-square)](#---)
 
+</div>
 
 Bem-vindo às minhas resoluções das listas da disciplina de Programação I! Os códigos aqui implementados foram construídos tanto para revisar a programação em linguagem C quanto para compreender mais a fundo os exemplos desenvolvidos na disciplina de Programação I do curso de Engenharia da Computação da UFAL.
 
 >   [!NOTE]
 >
 >   Dado que a disciplina de **Programação I** se baseia principalmente na resolução de exercícios propostos com base nos conceitos da linguagem de programação `C` apresentados em sala, dispus aqui apenas as resoluções dos exercícios propostos, que consegui resolver, no decorrer da disciplina.
+
+###     Licença
+
+Os arquivos aqui dispostos foram desenvolvidos sob a [licença MIT](./LICENSE).
 
 ##      [Primeira avaliação](./avaliacao-I/)
 
