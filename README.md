@@ -14,13 +14,9 @@
 
 Bem-vindo às minhas resoluções das listas da disciplina de Programação I! Os códigos aqui implementados foram construídos tanto para revisar a programação em linguagem C quanto para compreender mais a fundo os exemplos desenvolvidos na disciplina de Programação I do curso de Engenharia da Computação da UFAL.
 
->   [!NOTE]
+>   [!IMPORTANT]
 >
 >   Dado que a disciplina de **Programação I** se baseia principalmente na resolução de exercícios propostos com base nos conceitos da linguagem de programação `C` apresentados em sala, dispus aqui apenas as resoluções dos exercícios propostos, que consegui resolver, no decorrer da disciplina.
-
-###     Licença
-
-Os arquivos aqui dispostos foram desenvolvidos sob a [licença MIT](./LICENSE).
 
 ##      [Primeira avaliação](./avaliacao-I/)
 
